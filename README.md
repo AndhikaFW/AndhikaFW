@@ -53,6 +53,6 @@ Saya pakai HTML, CSS, and JavaScript percantik website. ✨
   </a>
 </div>
 
-### ⚡ Fun fact
+### ⚡ Fakta Unik
 
-I'm definitely a cat person.
+Saya pakai arch linux btw.
