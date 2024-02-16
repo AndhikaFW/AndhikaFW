@@ -32,13 +32,12 @@ Saya pakai HTML, CSS, and JavaScript percantik website. ✨
 - Mengintegrasikan aplikasi web ke perangkat desktop dan seluler
 
 ### 📫 Hubungi saya
-
-<div display="flex" style="text-decoration: none;">
-  <a href="https://www.linkedin.com/in/andhika-fadhlan-wijanarko-9a114b2b5/">
+<div display="flex">
+  <a href="https://www.linkedin.com/in/codewithbernard/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.facebook.com/andhika.wijanarko.16">
-    <img src="https://img.shields.io/badge/andhikawijanarko-%23355393.svg?style=for-the-badge&logo=Facebook" alt="Facebook"/>
+  <a href="https://twitter.com/CodeWithBernard">
+    <img src="https://img.shields.io/badge/codewithbernard-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://medium.com/@bernardbad">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
