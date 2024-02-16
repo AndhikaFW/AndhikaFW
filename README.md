@@ -39,7 +39,10 @@ Saya pakai HTML, CSS, and JavaScript percantik website. ✨
   <a href="https://www.facebook.com/andhika.wijanarko.16">
     <img src="https://img.shields.io/badge/andhikawijanarko-%23355393.svg?style=for-the-badge&logo=Facebook" alt="Facebook"/>
   </a>
-  <a href="https://medium.com/@bernardbad">
+  <a href="https://www.instagram.com/andhikafadhlan">
+    <img src="https://img.shields.io/badge/andhikafadhlan-12100E?style=for-the-badge&logo=instagram" alt="Instagram"/>
+  </a>
+  <a href="https://medium.com/@bernardbad](https://www.instagram.com/andhikafadhlan">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
 </div>
