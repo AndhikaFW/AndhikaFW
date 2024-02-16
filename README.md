@@ -2,7 +2,7 @@
 
 Saya pakai HTML, CSS, and JavaScript untuk percantik website. ✨
 
-**Saya suka pakai**
+**Saya pakai**
 
 <div display="flex">
   <img src="https://img.shields.io/badge/Python-%2320232a.svg?style=for-the-badge&logo=python" alt="Python"/>
