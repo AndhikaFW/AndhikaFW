@@ -22,9 +22,7 @@ Saya pakai HTML, CSS, and JavaScript percantik website. ✨
 ### 🌱 Saya sedang belajar
 
 <div display="flex">
-  <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" alt="Hyperledger"/>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum"/>
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
+  <img src="https://img.shields.io/badge/gimp-%23FF9A00.svg?style=for-the-badge&logo=gimp&logoColor=white" alt="GIMP"/>
 </div>
 
 ### 🤔 Saya butuh bantuan dengan
