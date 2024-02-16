@@ -33,7 +33,7 @@ Saya pakai HTML, CSS, and JavaScript untuk percantik website. ✨
 
 ### 📫 Hubungi saya
 <div display="flex">
-  <a href="https://www.linkedin.com/in/andhika-fadhlan-wijanarko-9a114b2b5/">
+  <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/andhika-fadhlan-wijanarko-9a114b2b5/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.facebook.com/andhika.wijanarko.16">
