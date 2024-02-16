@@ -22,7 +22,7 @@ Saya pakai HTML, CSS, and JavaScript percantik website. ✨
 ### 🌱 Saya sedang belajar
 
 <div display="flex">
-  <img src="https://img.shields.io/badge/gimp-%2320232a.svg?style=for-the-badge&logo=gimp" alt="GIMP"/>
+  <img src="https://img.shields.io/badge/gimp-%234b4537.svg?style=for-the-badge&logo=gimp" alt="GIMP"/>
 </div>
 
 ### 🤔 Saya butuh bantuan dengan
