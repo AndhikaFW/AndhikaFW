@@ -2,7 +2,7 @@
 
 Saya pakai HTML, CSS, and JavaScript percantik website. ✨
 
-**Saya suka bekerja dengan**
+**Saya suka pakai**
 
 <div display="flex">
   <img src="https://img.shields.io/badge/Python-%2320232a.svg?style=for-the-badge&logo=python" alt="Python"/>
@@ -14,12 +14,12 @@ Saya pakai HTML, CSS, and JavaScript percantik website. ✨
 </div>
 
 
-### 🔭 I’m working on
+### 🔭 Saya sedang bekerja untuk
 
-- Projects for freelance clients.
-- Growing [Upbeat Code](https://www.upbeatcode.com) to 100k/month visitors.
+- Proyek-proyek independen.
+- Tugas-tugas mata kuliah.
 
-### 🌱 I’m learning
+### 🌱 Saya sedang belajar
 
 <div display="flex">
   <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" alt="Hyperledger"/>
@@ -27,9 +27,9 @@ Saya pakai HTML, CSS, and JavaScript percantik website. ✨
   <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
 </div>
 
-### 🤔 I’m looking for help with
+### 🤔 Saya butuh bantuan dengan
 
-- Integrating AI models to web applications
+- Mengintegrasikan aplikasi web ke perangkat desktop dan seluler
 
 ### 📫 How to reach me
 
