@@ -55,4 +55,4 @@ Saya pakai HTML, CSS, and JavaScript untuk percantik website. ✨
 
 ### ⚡ Fakta Unik
 
-Saya pakai arch linux btw.
+Gk hadir briefing ProgLan wkwkwk. 🤣
