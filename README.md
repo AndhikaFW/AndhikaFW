@@ -1,4 +1,4 @@
-d### Hai 👋
+### Hai 👋
 
 Saya pakai HTML, CSS, and JavaScript percantik website. ✨
 
