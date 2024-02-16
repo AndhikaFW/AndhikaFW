@@ -1,6 +1,6 @@
 ### Hai 👋
 
-Saya pakai HTML, CSS, and JavaScript percantik website. ✨
+Saya pakai HTML, CSS, and JavaScript untuk percantik website. ✨
 
 **Saya suka pakai**
 
