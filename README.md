@@ -43,7 +43,7 @@ Saya pakai HTML, CSS, and JavaScript percantik website. ✨
     <img src="https://img.shields.io/badge/andhikafadhlan-%23e4405f?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://discordapp.com/users/1073939753961017414">
-    <img src="https://img.shields.io/badge/SaltKing#6971-%230077B5?style=for-the-badge&logo=discord" alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-%230077B5?style=for-the-badge&logo=discord" alt="Discord"/>
   </a>
   <a href="https://medium.com/@bernardbad](https://www.instagram.com/andhikafadhlan">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
