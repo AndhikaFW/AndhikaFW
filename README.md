@@ -9,7 +9,7 @@ Saya pakai HTML, CSS, and JavaScript percantik website. ✨
   <img src="https://img.shields.io/badge/C++-%2320232a.svg?style=for-the-badge&logo=c%2B%2B&logoColor=%23659bd3" alt="C++"/>
   <img src="https://img.shields.io/badge/javascript-%23e49f25.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="Gatsby"/>
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=html&logoColor=white" alt="HTML"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
 </div>
 
